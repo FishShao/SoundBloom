@@ -1,4 +1,4 @@
-# Music Generator
+# Sound Bloom
 
 #### Author: Sijia Shao
 
